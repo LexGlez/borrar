@@ -1,4 +1,4 @@
-# borrar
+﻿# borrar
 archivo que no quiero
 hola como estan 
 yo muy bien y tu 
@@ -21,3 +21,5 @@ okey
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠻⠿⠿⠿⠿⠛⠉
 cambio
 y fuera
+saldudos a todos 
+
